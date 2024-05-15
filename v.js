@@ -10,3 +10,6 @@ console.log(a+b);
 
 let check = (`check again`);
 console.log(check);
+
+let c = (`crack every challenges`);
+console.log(c);
