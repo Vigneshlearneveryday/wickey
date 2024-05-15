@@ -1,3 +1,5 @@
 console.log(`New World`);
-const  v = ( `The New world is directly and indirectly preaching us to learn or die `) ;
-console.log(v);
+
+let x = (` hello Elan `);
+let z = (`King of this X`)
+console.log(x+z);
