@@ -8,3 +8,5 @@ let a = (`peace`);
 let b = (`focus`);
 console.log(a+b);
 
+let check = (`check again`);
+console.log(check);
